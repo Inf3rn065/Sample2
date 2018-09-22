@@ -1,2 +1,3 @@
 my first file
 I am now editing in Git itself
+This is my second edit
